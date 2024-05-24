@@ -18,4 +18,4 @@ Este repositório reúne diversos trabalhos acadêmicos desenvolvidos ao longo d
    ```bash
    git clone https://github.com/jorgemdt/Trabalhos-dirigidos-faculdade.git
 
-**_⚠️ Precisa da ferramenta git instalada na sua máquina para usar este comando!_**
+**_⚠️ Precisa da ferramenta "Git" instalada na sua máquina para usar este comando!_**
