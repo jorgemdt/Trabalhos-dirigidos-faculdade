@@ -16,4 +16,4 @@ Este repositório reúne diversos trabalhos acadêmicos desenvolvidos ao longo d
 
 1. **Clonar o Repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/jorgemdt/Trabalhos-dirigidos-faculdade.git
